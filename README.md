@@ -19,6 +19,7 @@ Andrew Stevens
 ### Class Description
 
 **Thesaurus Class**
+
 The **Thesaurus** class contains methods to manage and utilize a collection of words and their synonyms.
 
 **Fields**
