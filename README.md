@@ -36,7 +36,7 @@ The **Thesaurus** class contains methods to manage and utilize a collection of w
 
 **public void populate()**: Populates the thesaurus with sample key-value pairs. For example, "happy" has synonyms like "joyful", "contented", and "cheerful".
 
-**ublic void print()**: Prints the entire thesaurus in the format "key - value".
+**public void print()**: Prints the entire thesaurus in the format "key - value".
 
 **public void addSynonym(String aWord, String aSynonym)**: Adds a synonym to the thesaurus. If the word exists, it adds the synonym to the existing set; if not, it creates a new set for the word.
 
